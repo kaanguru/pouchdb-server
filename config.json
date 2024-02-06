@@ -1,8 +1,11 @@
 {
   "couchdb": {
-    "uuid": "9c25210e-99ab-4ac3-bb19-65f7caa3fdff"
+    "uuid": "219c5de4-c312-40bc-9c0e-41d03b257a17"
   },
   "admins": {
-    "admin": "-pbkdf2-154c6e26eea0d07e8ed80dbfb25a5e9f19bde027,16f1dd1391021541041ad12215816414b17510b1df193173,10"
+    "admin": "-pbkdf2-ff21a4e59ae8dc399bc491d3c96cc0b5bbdf18db,19615d1eb1691d61601101751791f81a01691ea1f110216e,10"
+  },
+  "httpd": {
+    "bind_address": "localhost"
   }
 }
