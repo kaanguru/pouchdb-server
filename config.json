@@ -6,6 +6,6 @@
     "admin": "-pbkdf2-ff21a4e59ae8dc399bc491d3c96cc0b5bbdf18db,19615d1eb1691d61601101751791f81a01691ea1f110216e,10"
   },
   "httpd": {
-    "bind_address": "localhost"
+    "bind_address": "p-serve.netlify.app"
   }
 }
