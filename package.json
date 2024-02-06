@@ -1,0 +1,15 @@
+{
+  "name": "pouchdb-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pouchdb-server --port 5984"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pouchdb-server": "^4.2.0"
+  }
+}
